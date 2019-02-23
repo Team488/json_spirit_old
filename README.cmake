@@ -10,3 +10,5 @@ For using the cmake build system do the following steps:
 BOOST_ROOT Please set BOOST_ROOT to the root
   directory containing Boost or BOOST_INCLUDEDIR to the directory containing
   Boost's headers.
+
+NOTE: have boost installed, make the install directory ~/json
